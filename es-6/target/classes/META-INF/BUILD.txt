@@ -1,0 +1,17 @@
+{
+  "git.branch" : "main",
+  "git.build.time" : "2021-01-16 11:23:22",
+  "git.build.version" : "0.0.1-SNAPSHOT",
+  "git.closest.tag.commit.count" : "",
+  "git.closest.tag.name" : "",
+  "git.commit.id" : "528bf2d9d3de1bead2a12874c8c71a1180ef54cd",
+  "git.commit.id.abbrev" : "528bf2d",
+  "git.commit.id.describe-short" : "528bf2d",
+  "git.commit.message.short" : "Initial commit",
+  "git.commit.time" : "2021-01-16 10:56:17",
+  "git.commit.user.email" : "39048076+AthyLau@users.noreply.github.com",
+  "git.commit.user.name" : "AthyLau",
+  "git.dirty" : "false",
+  "git.tags" : "",
+  "git.total.commit.count" : "1"
+}
